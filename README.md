@@ -75,3 +75,7 @@ Increases reporting consistency.
 Can be scaled or reused for different data sets.
 
 Useful in real-world internship or job projects.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/e22dfbd0-5c4c-4826-b68f-c39362f2813a)
